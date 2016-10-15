@@ -1,0 +1,11 @@
+1) first install global packages ...
+npm install -g babel babel-cli
+
+2) then some more babel packages ...
+npm install babel-core babel-loader babel-preset-react babel-preset-es2015
+
+3) save some packages in package ...
+npm install webpack webpack-dev-server react react-dom react-router --save
+
+Author:
+Abhishek Sachdeva
